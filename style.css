@@ -371,6 +371,10 @@
 /* ----------navsection-mediaquery------ */
 @media screen and (max-width:413px)
 {
+    .my-header{
+        padding: 6px 20px;
+
+    }
     .logo-img{
         width: 100px;
         height: 30px;
